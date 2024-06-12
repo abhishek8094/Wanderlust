@@ -1,1 +1,1 @@
-<h1>Wanderlust</h1>🏠
+<h1>Wanderlust 🏠</h1>
