@@ -23,5 +23,10 @@
  </ol>
 
  <h2>Database 🛢️</h2>
- <ul><li><b>Database Management System: </b>MongoDB Atlas</li></ul>
+ <ul><li><b>Database Management System: </b>MongoDB Atlas</li>
+ <li><b>Features:</b> <ul>
+    <li><b>🗂️ Structured Database Schema: </b> For efficient data management</li>
+     <li><b>🔍 Database Queries:  </b>  To retrieve and store property and user information</li>
+  </ul></li>
+ </ul>
 
