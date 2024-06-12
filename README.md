@@ -3,7 +3,7 @@
 <h2>Project Summary 📄</h2>
 <p>WanderLust is a Full Stack Web Development project for browsing and booking vacation accommodations like houses, villas, and farmhouses. Users can list their own properties, offering diverse rental options. </p>
 
-<h2>Frontend 🌐</h2>
+<h2>Frontend Part🌐</h2>
 <ol>
   <li><b>Technologies Used:</b>HTML, CSS, JavaScript, Bootstrap, EJS</li>
   <li><b>Frameworks:</b>ReactJs</li>
