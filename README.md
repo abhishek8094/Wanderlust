@@ -22,3 +22,6 @@
   </ul></li>
  </ol>
 
+ <h2>Database 🛢️</h2>
+ <ul><li><b>Database Management System: </b>MongoDB Atlas</li></ul>
+
