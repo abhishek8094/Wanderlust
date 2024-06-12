@@ -5,6 +5,6 @@
 
 <h2>Frontend 🌐</h2>
 <ol>
-  <li><span>Technologies Used:</span>HTML, CSS, JavaScript, Bootstrap, EJS</li>
+  <li><h2>Technologies Used: <span>HTML, CSS, JavaScript, Bootstrap, EJS</span></h2></li>
 </ol>
 
