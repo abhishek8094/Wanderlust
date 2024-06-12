@@ -13,3 +13,12 @@
   </ul></li>
 </ol>
 
+<h2>Backend Part⚙️</h2>
+ <ol><li><b>Technologies Used: </b>Node.js, Express.js</li>
+  <li><b>Features:</b> <ul>
+    <li><b>🎶Restful API: </b>It uses standard HTTP methods such as GET, POST, PUT, DELETE to perform CRUD (Create, Read, Update, Delete) operations on resources</li>
+     <li><b>🔒 User Authentication and Authorization:  </b>Using Passport.js and JWT (JSON Web Tokens)</li>
+    <li><b>📄 Endpoints:  </b>For property listing, login/sign up, and user management</li>
+  </ul></li>
+ </ol>
+
