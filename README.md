@@ -8,7 +8,8 @@
   <li><b>Technologies Used:</b>HTML, CSS, JavaScript, Bootstrap, EJS</li>
   <li><b>Frameworks:</b>ReactJs</li>
   <li><b>Features:</b> <ul>
-    <li><b>Responsive Design: </b>An optimal viewing experience across a wide range of devices and screen sizes.</li>
+    <li><b>📱💻Responsive Design: </b>An optimal viewing experience across a wide range of devices and screen sizes.</li>
+     <li><b>🔍 User-friendly Interface: </b>For searching and listing properties with details.</li>
   </ul></li>
 </ol>
 
