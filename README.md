@@ -5,6 +5,10 @@
 
 <h2>Frontend 🌐</h2>
 <ol>
-  <li><b>Technologies Used:</b>HTML, CSS, JavaScript, Bootstrap, EJS></li>
+  <li><b>Technologies Used:</b>HTML, CSS, JavaScript, Bootstrap, EJS</li>
+  <li><b>Frameworks:</b>ReactJs</li>
+  <li><b>Features:</b> <ul>
+    <li><b>Responsive Design:</b>An optimal viewing experience across a wide range of devices and screen sizes.</li>
+  </ul></li>
 </ol>
 
