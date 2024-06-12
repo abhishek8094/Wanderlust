@@ -32,5 +32,16 @@
 
 <h2>Cloudinary Image Storage ☁️</h2>
  <ul><li><b>Image Hosting: </b> All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting. This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.</li>
+ </ul>
 
+ <h2> Additional Features 🌟</h2>
+ <ul>
+   <li><b>🔍 Search and Filter:  </b> Added search and filter for property listings. </li>
+   <li><b>⭐ User Reviews and Ratings: </b> Feature for users to review and rate properties. </li>
+   <li><b> 🔐 Security: </b> Ensured through encryption and data validation. </li>
+   <li><b> 📊 Client/Server-side Validations: </b> Thorough validations to ensure smooth operation</li>
+   <li><b> 🎨 EJS Templates: </b> For modular routing and dynamic views</li>
+   <li><b> 🍪 Cookies and Sessions: </b> For user-friendly authentication and notifications</li>
+   <li><b> MVC Architecture: </b> For scalable and organized code</li>
+   <li><b> Multer:  </b> For handling file uploads</li>
  </ul>
