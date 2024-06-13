@@ -48,3 +48,23 @@
 
 <h2> Deployment 🚀</h2>
 <p>The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.</p>
+
+<h2> 🛠️ Technologies & Packages Used: </h2>
+<ul>
+  <li>MongoDB</li>
+  <li>Express.js</li>
+  <li>Node.js</li>
+  <li>Passport.js for Authentication</li>
+  <li>Cloudinary for Image Storage</li>
+  <li>Connect Flash for Flash Messages</li>
+  <li>Connect Mongo for Session Storage</li>
+  <li>Cookie Parser for Parsing Cookies</li>
+  <li>EJS for Template Rendering</li>
+  <li>Express Session for Session Handling</li>
+  <li>Joi for Data Validation</li>
+  <li>Mongoose for MongoDB Object Modeling</li>
+  <li>Multer for File Uploads</li>
+  <li>Passport Local for Local Authentication</li>
+  <li>Passport Local Mongoose for Mongoose-Specific Authentication</li>
+
+</ul>
