@@ -49,7 +49,7 @@
 <h2> Deployment 🚀</h2>
 <p>The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.</p>
 <ul>
-  <li>LIVE : <span> </span></li>
+  <li>LIVE : <a href = "https://wanderlust-9zmh.onrender.com">Wanderlust </a></li>
 </ul>
 
 <h2> 🛠️ Technologies & Packages Used: </h2>
