@@ -42,6 +42,9 @@
    <li><b> 📊 Client/Server-side Validations: </b> Thorough validations to ensure smooth operation</li>
    <li><b> 🎨 EJS Templates: </b> For modular routing and dynamic views</li>
    <li><b> 🍪 Cookies and Sessions: </b> For user-friendly authentication and notifications</li>
-   <li><b> MVC Architecture: </b> For scalable and organized code</li>
-   <li><b> Multer:  </b> For handling file uploads</li>
+   <li><b> 🏗️ MVC Architecture: </b> For scalable and organized code</li>
+   <li><b> 💾 Multer:  </b> For handling file uploads</li>
  </ul>
+
+<h2> Deployment 🚀</h2>
+<p>The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.</p>
